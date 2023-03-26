@@ -4,20 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"No build specified\" && exit 1",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Devangbramhakshatriya/LearnDeplyemt.git"
-  },
+ 
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Devangbramhakshatriya/LearnDeplyemt/issues"
-  },
+  
   "dependencies": {
     "bcrypt": "^5.1.0",
     "cors": "^2.8.5",
@@ -26,6 +20,6 @@
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.0.2",
     "nodemon": "^2.0.22"
-  },
-  "homepage": "https://github.com/Devangbramhakshatriya/LearnDeplyemt#readme"
+  }
+ 
 }
